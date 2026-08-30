@@ -90,6 +90,3 @@ No text-only detector is universally accurate. A model can produce human-like te
 
 Please read `CONTRIBUTING.md`, run the checks above, and describe the user-visible behavior of your change. New detection signals should include an explanation, a limitation note, and deterministic tests. Do not submit credentials, private text samples, generated APK signing material, or provider secrets.
 
-## License
-
-This project is released under the MIT License. See `LICENSE`.
